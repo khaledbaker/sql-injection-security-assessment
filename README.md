@@ -72,7 +72,7 @@ Burp Suite Community Edition · Manual Browser Testing · Flask · SQLite ·
 SQL Injection (Boolean-based & UNION-based)
 
 ## Full Report
-See [SQL-Injection-Security-Assessment.pdf](./report/SQL-Injection-Security-Assessment.pdf) 
+See [SQL-Injection-Security-Assessment.pdf](./report/sql-injection-security-assessment.pdf) 
 for complete findings, testing steps, and secure code recommendations.
 
 ## Skills Demonstrated
